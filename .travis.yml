@@ -9,7 +9,7 @@ script:
 branches:
   only:
   - main
- 
+  - Reema
 
 cache:
   npm: false
