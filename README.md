@@ -1,4 +1,4 @@
-# SEprojectSE
+# SEprojectSE [![Build Status](https://app.travis-ci.com/iabeer210/SEprojectSE.svg?branch=main)](https://app.travis-ci.com/iabeer210/SEprojectSE)
 ## Description
 The project is based on developing a web-based machine learning system for text classification by using Node-fasttext tool .
 ## How it work
