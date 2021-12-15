@@ -10,3 +10,12 @@ by using data in train.txt it will be train ,then it will take user input entere
 
 ## How to run
 run by using : node index.js command and open the browser by using port number that has given by server. 
+
+## Travis CI
+It is Free Tool to Test and continues integration the project .
+
+## Steps to link the travis to the project
+- setup
+- Adding repository
+- prepare file .travis.yml
+- triggering a bulid
